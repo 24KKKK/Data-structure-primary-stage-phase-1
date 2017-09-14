@@ -1,0 +1,12 @@
+5 5
+a
+s
+d
+f
+g
+
+a s
+s d
+a d
+f s
+f g
